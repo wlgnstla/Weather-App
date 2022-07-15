@@ -1,3 +1,3 @@
 # Weather-App
 
-Minimialist Weather App using the OpenWeather API!
+Minimialist Weather App using the <a href="https://openweathermap.org/api"> OpenWeather API </a>
